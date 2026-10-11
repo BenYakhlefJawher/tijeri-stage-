@@ -1,0 +1,10 @@
+playwright
+beautifulsoup4
+pandas
+lxml
+psycopg2-binary
+python-dotenv
+loguru
+tqdm
+openpyxl
+requests
